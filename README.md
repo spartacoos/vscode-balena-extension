@@ -1,0 +1,2 @@
+# vscode-balena-extension
+A [visual studio code](https://code.visualstudio.com/) extension that allows you to flash and debug your [Rasperry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) remotely while it is connected to a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) running with [BalenaOS](https://www.balena.io/docs/reference/OS/overview/2.x/).
